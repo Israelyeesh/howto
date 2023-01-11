@@ -1,0 +1,43 @@
+*{
+    background-color: #565656;
+
+
+}
+body{
+    color: white;
+}
+h1{
+margin-left: auto;
+font-family: 'Hanken Grotesk', sans-serif;
+font-weight: 10000;
+font-size: 3rem;
+}
+a{
+text-decoration: none;
+color: #9e9e9e;
+
+}
+h1{
+color: #fba92c;
+}
+#cheeseathome{
+    font-size: 1.5rem;
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #fba92c;
+}
+#cheeseoutside{
+    font-size: 1.5rem;
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: #fba92c;
+}
+h2{
+font-size: 1rem;
+    color: black;
+}
+h3{
+    font-size: 1rem;
+    color: black;
+}
+h4{
+    color: black;
+}
